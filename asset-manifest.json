@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Slayer-Music/static/css/main.ec14bb65.css",
+    "main.js": "/Slayer-Music/static/js/main.894dc54e.js",
+    "static/media/BackgroundEditd.png": "/Slayer-Music/static/media/BackgroundEditd.c88bea42be5b1ce4804c.png",
+    "static/media/Background4.png": "/Slayer-Music/static/media/Background4.90f668c3e7ad6855d00b.png",
+    "static/media/backgroundEdited.png": "/Slayer-Music/static/media/backgroundEdited.8e14da2d297e3181fb39.png",
+    "static/media/logo.png": "/Slayer-Music/static/media/logo.4e9b09ce9fc84381687d.png",
+    "static/media/Background3.png": "/Slayer-Music/static/media/Background3.a38c1f012ada15ab28f0.png",
+    "static/media/1ped.png": "/Slayer-Music/static/media/1ped.3a28669b7c3cdf4a3a2f.png",
+    "static/media/Ibanez1.png": "/Slayer-Music/static/media/Ibanez1.92639ed7b36bc810879a.png",
+    "static/media/JTC1R.png": "/Slayer-Music/static/media/JTC1R.2e454a52cdabb85564d6.png",
+    "static/media/Background.jpg": "/Slayer-Music/static/media/Background.7f30dad27bd33bcdd8b0.jpg",
+    "static/media/Background1.jpg": "/Slayer-Music/static/media/Background1.437bb7f9dd0b0f9861c7.jpg",
+    "static/media/2ped.png": "/Slayer-Music/static/media/2ped.fe5fba5feee26adbb15b.png",
+    "static/media/JTC1-2.jpg": "/Slayer-Music/static/media/JTC1-2.62beb0fe85137f56776c.jpg",
+    "static/media/JTC1.png": "/Slayer-Music/static/media/JTC1.b6693e52510135cb8283.png",
+    "static/media/Background2.jpg": "/Slayer-Music/static/media/Background2.39ac8f8e086591120621.jpg",
+    "static/media/198-0351-802.png": "/Slayer-Music/static/media/198-0351-802.6d1b9b790ba26873da90.png",
+    "static/media/Gipsoon1.png": "/Slayer-Music/static/media/Gipsoon1.1f269943b982227cc6f6.png",
+    "static/media/BassFront1.png": "/Slayer-Music/static/media/BassFront1.1978fdd726bf3f0bc730.png",
+    "static/media/Gipsoon2Back.png": "/Slayer-Music/static/media/Gipsoon2Back.d37f8e5694602f06f933.png",
+    "static/media/BassFront.png": "/Slayer-Music/static/media/BassFront.103367881fdb5bac1ea9.png",
+    "static/media/BassBack2.png": "/Slayer-Music/static/media/BassBack2.65f1cfc92089006a3d1d.png",
+    "static/media/Bcrich1.png": "/Slayer-Music/static/media/Bcrich1.7adef8c1c8a0b4623f48.png",
+    "static/media/BassB1.png": "/Slayer-Music/static/media/BassB1.2af8dee9e6d16ba9ff9e.png",
+    "static/media/BassBack.png": "/Slayer-Music/static/media/BassBack.69b3e22dcbfdac61eced.png",
+    "static/media/Ibanez2.png": "/Slayer-Music/static/media/Ibanez2.80f485e7ed1e5d46ac56.png",
+    "static/media/Bcrich2.png": "/Slayer-Music/static/media/Bcrich2.d2225578bbde219eac12.png",
+    "static/media/JTC1R-2.jpg": "/Slayer-Music/static/media/JTC1R-2.1a8b24f279ce42a8254b.jpg",
+    "index.html": "/Slayer-Music/index.html",
+    "main.ec14bb65.css.map": "/Slayer-Music/static/css/main.ec14bb65.css.map",
+    "main.894dc54e.js.map": "/Slayer-Music/static/js/main.894dc54e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec14bb65.css",
+    "static/js/main.894dc54e.js"
+  ]
+}
