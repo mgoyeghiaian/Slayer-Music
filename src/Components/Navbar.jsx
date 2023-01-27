@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav>
 
-      <Nav className="justify-content-center">
+      <Nav className="Nav">
         <div>
           <Nav.Item>
             <Nav.Link href="#guitars">Guitar</Nav.Link>
@@ -15,18 +15,18 @@ function Navbar() {
           </Nav.Item>
         </div>
         <div className='logo'>
-          <a href='#'>
-            <img src={Logo} />
-          </a>
+          <img src={Logo} />
         </div>
-        <Nav.Item>
-          <Nav.Link href='#pedals'>Pedals</Nav.Link>
-        </Nav.Item>
-        <Nav.Item>
-          <Nav.Link href='#GuitarPicks'>
-            Guitar Picks
-          </Nav.Link>
-        </Nav.Item>
+        <div className='navitem2'>
+          <Nav.Item>
+            <Nav.Link href='#pedals'>Pedals</Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link href='#GuitarPicks'>
+              Guitar Picks
+            </Nav.Link>
+          </Nav.Item>
+        </div>
       </Nav>
     </nav>
   );

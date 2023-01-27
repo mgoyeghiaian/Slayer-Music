@@ -1,4 +1,9 @@
 
+.nav{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
 
 nav {
   background: rgb(193,60,57);
@@ -20,7 +25,9 @@ justify-content: center;
 margin:0;}
 
 .nav-item a{
-  color: blanchedalmond;
+  color: #fff;
+;
+
 }
 
 
@@ -31,8 +38,20 @@ margin:0;}
   }
 
 .logo{
-text-align: center;}
+margin-left: 25%;
+margin-right: 25%;
+}
  
 .logo img{
-  width: 10%;
+height: 100px;
+
+
+}
+
+ 
+ @media (max-width:1352px) {
+
+  .navitem2 div{
+padding-left: 0;
+  } 
  }

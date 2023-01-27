@@ -8,12 +8,9 @@ const App = () => {
   return (
     <div className='main'>
       <section><Navbar /></section>
-
       <section ><Main /></section>
-
       <section><Footer /></section>
     </div>
   );
 }
-
 export default App;
