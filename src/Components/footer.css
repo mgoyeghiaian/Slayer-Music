@@ -1,0 +1,14 @@
+.footer{
+  background: rgb(193,60,57);
+  background: radial-gradient(circle, rgba(193,60,57,1) 6%, rgba(87,9,5,1) 32%, rgba(8,4,4,1) 64%, rgba(39,8,8,1) 91%);
+background-position: center;
+display: flex;
+justify-content: center;
+height: 10vh;
+color: rgba(234, 222, 222, 0.738);
+}
+
+.footer p{
+  margin-top: 2%;
+  font-weight: bold;
+}

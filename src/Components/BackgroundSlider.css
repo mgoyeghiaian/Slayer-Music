@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+.slider{
+  height: 100vh;
+  position: relative;
+}
+.description{
+  width: 600px;
+position: absolute;
+z-index: 999;
+color :#fff;
+top: 20%;
+left: 10%;
+}
+.description h1{
+  font-size: 46px;
+font-family: 'Metal Mania', cursive;
+}
+.description p{
+  margin-left: 17%;
+  font-size: 35px;
+  font-family: 'Metal Mania', cursive;
+}
+.carousel-boullt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carousel-boullt span{
+  width: 45px;
+  height: 12px;
+  background-color: rgb(219, 23, 23);
+  margin-left: 10px;
+  border-radius: 10px;
+cursor: pointer;
+box-shadow: 3px 2px 2px rgb(19, 6, 6);
+}
+
+
