@@ -1,7 +1,7 @@
-import Background1 from '../assets/Background1.jpg'
-import Background2 from '../assets/Background2.jpg'
-import Background3 from '../assets/Background3.png'
-import Background4 from '../assets/Background4.png'
+import Background1 from '../../assets/Background1.jpg'
+import Background2 from '../../assets/Background2.jpg'
+import Background3 from '../../assets/Background3.png'
+import Background4 from '../../assets/Background4.png'
 
 
 

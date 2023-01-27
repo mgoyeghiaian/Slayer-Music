@@ -1,11 +1,16 @@
 import React from 'react'
-import GuitarPicks from './GuitarPicks'
-import Guitars from './Guitars'
-import Pedals from './Pedals'
-import Bass from './Bass'
-import Background from './BackgroundSlider'
+import GuitarPicks from './Guitar-Picks/GuitarPicks'
+import Guitars from './Guitar/Guitars'
+import Pedals from './Pedals/Pedals'
+import Bass from './Bass/Bass'
+import Background from './Background-Slider/BackgroundSlider'
 import './main.css'
 
+window.addEventListener('scroll', () => {
+  const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+  const scrolled = window.scrollY
+  console.log(scrollable)
+})
 function Main() {
   return (
     <div className='background' >

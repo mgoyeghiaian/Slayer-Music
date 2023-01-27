@@ -1,12 +1,12 @@
 import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import Fender1 from '../assets/Bass/Fender/BassFront1.png'
-import Fender2 from '../assets/Bass/Fender/BassBack2.png'
-import BcRich1 from '../assets/Bass/B.C.Rich/BassB1.png'
-import BcRich2 from '../assets/Bass/B.C.Rich/BassFront.png'
-import Ibanez1 from '../assets/Bass/Ibanez/BassFront.png'
-import Ibanez2 from '../assets/Bass/Ibanez/BassBack.png'
+import Fender1 from '../../assets/Bass/Fender/BassFront1.png'
+import Fender2 from '../../assets/Bass/Fender/BassBack2.png'
+import BcRich1 from '../../assets/Bass/B.C.Rich/BassB1.png'
+import BcRich2 from '../../assets/Bass/B.C.Rich/BassFront.png'
+import Ibanez1 from '../../assets/Bass/Ibanez/BassFront.png'
+import Ibanez2 from '../../assets/Bass/Ibanez/BassBack.png'
 import './Bass.css'
 function Bass() {
   return (

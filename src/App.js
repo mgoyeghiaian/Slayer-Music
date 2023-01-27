@@ -1,7 +1,7 @@
 import './App.css';
-import Navbar from './Components/Navbar';
+import Navbar from './Components/Navbar/Navbar';
 import Main from './Components/Main';
-import Footer from './Components/Footer';
+import Footer from './Components/Footer/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {

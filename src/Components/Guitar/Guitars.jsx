@@ -1,12 +1,12 @@
 import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import BcRich1 from '../assets/Guitars/Electric/B.C.Rich/Bcrich1.png'
-import BcRich2 from '../assets/Guitars/Electric/B.C.Rich/Bcrich2.png'
-import Ibanez1 from '../assets/Guitars/Electric/Ibanez/Ibanez1.png'
-import Ibanez2 from '../assets/Guitars/Electric/Ibanez/Ibanez2.png'
-import Gipson1 from '../assets/Guitars/Electric/Gipson/Gipsoon1.png'
-import Gipson2 from '../assets/Guitars/Electric/Gipson/Gipsoon2Back.png'
+import BcRich1 from '../../assets/Guitars/Electric/B.C.Rich/Bcrich1.png'
+import BcRich2 from '../../assets/Guitars/Electric/B.C.Rich/Bcrich2.png'
+import Ibanez1 from '../../assets/Guitars/Electric/Ibanez/Ibanez1.png'
+import Ibanez2 from '../../assets/Guitars/Electric/Ibanez/Ibanez2.png'
+import Gipson1 from '../../assets/Guitars/Electric/Gipson/Gipsoon1.png'
+import Gipson2 from '../../assets/Guitars/Electric/Gipson/Gipsoon2Back.png'
 
 
 import './Guitar.css'

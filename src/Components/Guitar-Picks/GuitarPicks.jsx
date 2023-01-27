@@ -2,11 +2,11 @@ import React from 'react'
 import './GuitarPicks.css'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import JTC11 from '../assets/Accessories/Pick/JTC1.png'
-import JTC12 from '../assets/Accessories/Pick/JTC1-2.jpg'
-import JTC1R1 from '../assets/Accessories/Pick/JTC1R.png'
-import JTC1R12 from '../assets/Accessories/Pick/JTC1R-2.jpg'
-import Fender from '../assets/Accessories/Pick/198-0351-802.png'
+import JTC11 from '../../assets/Accessories/Pick/JTC1.png'
+import JTC12 from '../../assets/Accessories/Pick/JTC1-2.jpg'
+import JTC1R1 from '../../assets/Accessories/Pick/JTC1R.png'
+import JTC1R12 from '../../assets/Accessories/Pick/JTC1R-2.jpg'
+import Fender from '../../assets/Accessories/Pick/198-0351-802.png'
 function GuitarPicks() {
   return (
     <div>

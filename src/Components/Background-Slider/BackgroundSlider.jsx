@@ -19,6 +19,7 @@ const BackgroundSlider = () => {
     backgroundSize: 'cover',
     height: '100%',
     border: '3px solid black',
+    transition: ' background-image 1.2s ease-in-out',
   }
   const goToNext = (currentState) => {
     setCurrentState(currentState)
