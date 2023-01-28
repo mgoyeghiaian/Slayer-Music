@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Slayer-Music/static/css/main.aa5f2e24.css",
-    "main.js": "/Slayer-Music/static/js/main.bf4ba901.js",
+    "main.css": "/Slayer-Music/static/css/main.810982d9.css",
+    "main.js": "/Slayer-Music/static/js/main.684dbb2c.js",
     "static/media/BackgroundEditd.png": "/Slayer-Music/static/media/BackgroundEditd.c88bea42be5b1ce4804c.png",
     "static/media/Background4.png": "/Slayer-Music/static/media/Background4.90f668c3e7ad6855d00b.png",
     "static/media/backgroundEdited.png": "/Slayer-Music/static/media/backgroundEdited.8e14da2d297e3181fb39.png",
@@ -29,11 +29,11 @@
     "static/media/Bcrich2.png": "/Slayer-Music/static/media/Bcrich2.d2225578bbde219eac12.png",
     "static/media/JTC1R-2.jpg": "/Slayer-Music/static/media/JTC1R-2.1a8b24f279ce42a8254b.jpg",
     "index.html": "/Slayer-Music/index.html",
-    "main.aa5f2e24.css.map": "/Slayer-Music/static/css/main.aa5f2e24.css.map",
-    "main.bf4ba901.js.map": "/Slayer-Music/static/js/main.bf4ba901.js.map"
+    "main.810982d9.css.map": "/Slayer-Music/static/css/main.810982d9.css.map",
+    "main.684dbb2c.js.map": "/Slayer-Music/static/js/main.684dbb2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa5f2e24.css",
-    "static/js/main.bf4ba901.js"
+    "static/css/main.810982d9.css",
+    "static/js/main.684dbb2c.js"
   ]
 }
